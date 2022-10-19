@@ -1,0 +1,44 @@
+[
+  {
+    "article": "01",
+    "name": "Bolígrafo",
+    "category": "A",
+    "price": "19.5",
+    "stock": "10"
+  },
+  {
+    "article": "02",
+    "name": "Lápiz",
+    "category": "A",
+    "price": "5.65",
+    "stock": "5"
+  },  
+  {
+    "article": "03",
+    "name": "Rotulador negro",
+    "category": "B",
+    "price": "6.5",
+    "stock": "25"
+  },
+  {
+    "article": "04",
+    "name": "Rotulador rojo",
+    "category": "B",
+    "price": "7.5",
+    "stock": "15"
+  },
+  {
+    "article": "05",
+    "name": "Rotulador azul",
+    "category": "B",
+    "price": "8",
+    "stock": "5"
+  },
+  {
+    "article": "06",
+    "name": "Sacapuntas",
+    "category": "C",
+    "price": "10",
+    "stock": "25"
+  }
+]
